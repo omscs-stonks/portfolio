@@ -1,0 +1,41 @@
+{
+
+    "AFRM": {"Shares" : -700,
+             "Start_Date": "2020-01-01"},
+
+    "PYPL": {"Shares" : 200,
+            "Start_Date": "2020-01-01"},
+
+    "META": {"Shares" : 100 ,
+            "Start_Date": "2020-01-01"},
+
+    "PLBY": {"Shares" : 875 ,
+            "Start_Date": "2020-01-01"},
+
+    "BIRD": {"Shares" : 1700 ,
+            "Start_Date": "2020-01-01"},
+
+    "GOGO": {"Shares" : 2000 ,
+            "Start_Date": "2020-01-01"},
+
+    "T": {"Shares" : 1000 ,
+          "Start_Date": "2020-01-01"},
+
+    "ETH-USD": {"Shares" : 8 ,
+                "Start_Date": "2020-01-01"},
+
+    "TWOU": {"Shares" : 850  ,
+            "Start_Date": "2020-01-01"},
+
+    "SOFI": {"Shares" : 1500,
+            "Start_Date": "2020-01-01"},
+
+    "PMTS": {"Shares" : 6000 ,
+            "Start_Date": "2020-01-01"},
+
+    "UBER": {"Shares" : 250,
+            "Start_Date": "2020-01-01"},
+
+    "MELI": {"Shares" : 25,
+            "Start_Date": "2020-01-01"}
+}
