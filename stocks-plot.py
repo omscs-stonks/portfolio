@@ -124,8 +124,8 @@ fig.write_html("path/to/file.html")
 if __name__ == '__main__':
 
 
-    plot_daily_rets(**{"df": daily_ret, "title": "Cumulative TICKER Daily Return",
-                        "idx": "Date",  "val":"""% Return""", "var":"TICKER" })
+    # plot_daily_rets(**{"df": daily_ret, "title": "Cumulative TICKER Daily Return",
+    #                     "idx": "Date",  "val":"""% Return""", "var":"TICKER" })
 
     plot_daily_rets(**{"df": cum_port_ret, "title": "Cumulative Portfolio Daly Return",
                         "idx": "Date",  "val":"""% Return""", "var":"Portfolio" })
