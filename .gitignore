@@ -1,0 +1,4 @@
+venv_stocks/
+.venv_stocks
+.env
+.venv
