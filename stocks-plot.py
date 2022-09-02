@@ -111,7 +111,7 @@ cum_tkr_ret.reset_index(level=0, inplace=True)
 
 fig = px.line(cum_tkr_ret, x="Date", y=cum_tkr_ret.columns ,
               hover_data={"Date": "|%B %d, %Y"},
-              title='custom tick labels' )
+              title='Daily Cumulative Ticker Level Return (YTD)' )
 
 fig.update_xaxes(
     dtick="M1",
